@@ -1,0 +1,2 @@
+name="fghjk"
+print(name)
